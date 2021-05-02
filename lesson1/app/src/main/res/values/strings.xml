@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lesson1</string>
+    <string name="button_text">Кнопка</string>
+    <string name="button_text2">Вторая кнопка</string>
+</resources>
